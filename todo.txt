@@ -5,3 +5,5 @@ Todo
 - look into printing automatically? 
 
 - explain concept of blacking out output to user?
+
+- mmhm
