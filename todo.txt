@@ -6,3 +6,4 @@ Todo
 
 - explain concept of blacking out output to user?
 
+- testing auto push
