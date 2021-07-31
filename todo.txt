@@ -1,0 +1,7 @@
+Todo 
+
+- open output.txt when done
+
+- look into printing automatically? 
+
+- explain concept of blacking out output to user?
