@@ -6,4 +6,4 @@ Todo
 
 - explain concept of blacking out output to user?
 
-- mmhm
+- yeah
